@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\TrexGame\TrexGame\bin\Debug\TrexGame.exe.config
+C:\Users\Lenovo\source\repos\TrexGame\TrexGame\bin\Debug\TrexGame.exe
+C:\Users\Lenovo\source\repos\TrexGame\TrexGame\bin\Debug\TrexGame.pdb
+C:\Users\Lenovo\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.Trex.resources
+C:\Users\Lenovo\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.exe
+C:\Users\Lenovo\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.pdb
